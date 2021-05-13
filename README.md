@@ -1,3 +1,3 @@
 1. R code for linear mixed models examining factors responsible for niche dynamics.R: This script estimates the influences of predictors on the niche dynamics between 91 progenitors and their cultivated crop species.
 2. R code for niche dynamics in ecospat.R: This script delimits the niche dynamics between 91 progenitors and their cultivated crop species, and the metric of niche dynamics include niche expansions, niche-unfilling, niche stability, breadth ratios and similarity index. 
-3. R code for species distribution models in biomod2.R: This script is used to identify the dominant factors delimiting the niche spaces of cultivated crop species and their wild progenitors, as well as to account for the collinearity among them.
+3. R code for ecological niche models in biomod2.R: This script is used to identify the dominant factors delimiting the niche spaces of cultivated crop species and their wild progenitors, as well as to account for the collinearity among them.
